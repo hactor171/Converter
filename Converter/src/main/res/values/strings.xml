@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="wprowadz_liczbe">Wprowadz liczbe</string>
+    <string name="Wprowadz_liczbe">wprowadz_liczbe</string>
+    <string name="textview">TextView</string>
+    <string name="dec">Dec</string>
+    <string name="bin">Bin</string>
+    <string name="hex">Hex</string>
+    <string name="oct">oct</string>
+    <string name="Oct">Oct</string>
+    <string name="system_z_jakiego_chcesz_skonwertowa">System z jakiego chcesz skonwertować</string>
+    <string name="system_na_kt_ry_chcesz_skonwertowa">System na który chcesz skonwertować</string>
+</resources>
